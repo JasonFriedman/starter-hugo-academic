@@ -1,7 +1,7 @@
 ---
 title: Jason Friedman
 role: Associate Professor
-avatar_filename: jason-friedman_small.jpg
+avatar_filename: avatar.jpg
 bio: I'm interested in how we produce and learn movement, in typical development
   and in motor disorders
 interests:
