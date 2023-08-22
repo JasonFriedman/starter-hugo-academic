@@ -1,7 +1,7 @@
 ---
 abstract: We held a one-day workshop on the topic of slow movements - videos
   from the event are available in the link below on youtube
-slides: example
+slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Slow movements event
