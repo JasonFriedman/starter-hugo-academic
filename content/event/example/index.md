@@ -5,7 +5,9 @@ slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Slow movements event
-location: Museum of Natural History, Tel Aviv University
+location: |-
+  Museum of Natural History, Tel Aviv University
+  Israel
 date: 2023-06-22T06:00:00.000Z
 date_end: 2023-06-22T14:00:00.000Z
 all_day: false
