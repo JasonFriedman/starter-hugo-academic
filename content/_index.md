@@ -87,15 +87,16 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #  {{% callout note %}}
+      #  Quickly discover relevant content by [filtering publications](./publication/).
+      #  {{% /callout %}}
       filters:
         folders:
           - publication
         exclude_featured: true
-      text: A full list of my publications can be found [here](https://curiousjason.com/journalpapers.html).
+      text: |-
+            A full list of my publications can be found [here](https://curiousjason.com/journalpapers.html).
             A list of publications including citation counts can also be found on [Google scholar](https://scholar.google.com/citations?user=QIVliHQAAAAJ&hl=en), [Web of Science](https://www.webofscience.com/wos/author/rid/B-4690-2008), [ORCID](https://orcid.org/0000-0001-8845-5082), or [cris](https://cris.tau.ac.il/en/persons/jason-friedman).
     
     design:
