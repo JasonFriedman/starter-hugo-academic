@@ -42,13 +42,13 @@ date: 2019-04-07T00:00:00Z
 url_slides: ""
 links:
   - name: Custom Link
-    url: http://example.org
+    url: https://arxiv.org/abs/2106.12937
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.png
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2021-06-21T00:00:00Z
 url_poster: "#"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: 10.48550/arXiv.2106.12937
