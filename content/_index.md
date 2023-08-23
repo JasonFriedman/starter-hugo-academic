@@ -95,6 +95,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
+      text: A full list of my publications can be found [here](https://curiousjason.com/journalpapers.html).
     design:
       columns: '2'
       view: citation
