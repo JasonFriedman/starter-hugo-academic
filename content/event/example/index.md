@@ -3,7 +3,7 @@ abstract: We held a one-day workshop on the topic of slow movements - videos
   from the event are available in the link below on youtube
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: A one-day workshop on slow movements, from many different perspectives, from biomechanics to dance
 title: Slow movements event
 location: |-
   Museum of Natural History, Tel Aviv University
