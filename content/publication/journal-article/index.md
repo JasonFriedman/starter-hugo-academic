@@ -22,7 +22,7 @@ abstract: The ability to coordinate finger forces to dexterously perform tasks
   areas of brain injury typically observed in CP and TBI, and the different
   amount of time that has passed since the injury.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.frontiersin.org/articles/10.3389/fnhum.2023.1083304
 publication_types:
   - "2"
 authors:
@@ -54,7 +54,7 @@ image:
   filename: featured.png
 date: 2023-08-23T04:48:27.808Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2023-01-23T00:00:00Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
