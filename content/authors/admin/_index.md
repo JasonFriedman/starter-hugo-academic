@@ -48,4 +48,4 @@ highlight_name: true
 first_name: Alice
 email: write.to.jason@gmailcom
 ---
-J﻿ason Friedman is an Associate Professor in the [Dept. Physical Therapy](https://en-med.tau.ac.il/About-Physio) and the [Sagol School of Neuroscience](https://en-sagol.tau.ac.il/) at [Tel Aviv University](https://english.tau.ac.il/). He is interested in how the brain controls movement, with a focus on how we can speed up motor learning, how we combine movement primitives to form complex movements, and methods for understanding movement disorders.
+J﻿ason Friedman is an Associate Professor in the [Dept. Physical Therapy](https://en-med.tau.ac.il/About-Physio) and the [Sagol School of Neuroscience](https://en-sagol.tau.ac.il/) at [Tel Aviv University](https://english.tau.ac.il/), He is interested in how the brain controls movement, with a focus on how we can speed up motor learning, how we combine movement primitives to form complex movements, and methods for understanding movement disorders. and co-director of the [Movement Sciences lab](https://www.movementscienceslab.com/)
