@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: 
 url_pdf: ""
 summary: While typically developing individuals show movements that are optimal
   in some way (e.g. [Friedman & Flash,
