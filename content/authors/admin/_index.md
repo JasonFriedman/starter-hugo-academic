@@ -7,18 +7,17 @@ bio: I'm interested in how we produce and learn movement, in typical development
 interests:
   - Motor control
   - motor learning
-social:
+profiles:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: brands/x
     icon_pack: fab
     link: https://twitter.com/writetojason
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: academicons/google-scholar
     link: https://scholar.google.co.il/citations?user=QIVliHQAAAAJ
   - icon: github
     icon_pack: fab
@@ -30,16 +29,15 @@ organizations:
   - name: Tel Aviv University
     url: https://english.tau.ac.il
 education:
-  courses:
-    - area: PhD (Computer Science & Applied Mathematics)
-      institution: Weizmann Institute of Science
-      year: ""
-    - area: M.Sc (Computer Science & Applied Mathematics)
-      institution: Weizmann Institute of Science
-      year: ""
-    - area: B.Sc (Computer Science)
-      institution: Monash University
-      year: ""
+  - area: PhD (Computer Science & Applied Mathematics)
+    institution: Weizmann Institute of Science
+    year: ""
+  - area: M.Sc (Computer Science & Applied Mathematics)
+    institution: Weizmann Institute of Science
+    year: ""
+  - area: B.Sc (Computer Science)
+    institution: Monash University
+    year: ""
 superuser: true
 status:
   icon: ☕️
