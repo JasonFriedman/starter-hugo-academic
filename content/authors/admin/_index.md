@@ -31,21 +31,21 @@ organizations:
     url: https://english.tau.ac.il
 education:
   courses:
-    - course: PhD (Computer Science & Applied Mathematics)
+    - area: PhD (Computer Science & Applied Mathematics)
       institution: Weizmann Institute of Science
       year: ""
-    - course: M.Sc (Computer Science & Applied Mathematics)
+    - area: M.Sc (Computer Science & Applied Mathematics)
       institution: Weizmann Institute of Science
       year: ""
-    - course: B.Sc (Computer Science)
+    - area: B.Sc (Computer Science)
       institution: Monash University
       year: ""
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Friedman
 highlight_name: true
-first_name: Alice
+first_name: Jason
 email: write.to.jason@gmailcom
 ---
-J﻿ason Friedman is an Associate Professor in the [Dept. Physical Therapy](https://en-med.tau.ac.il/About-Physio) and the [Sagol School of Neuroscience](https://en-sagol.tau.ac.il/) at [Tel Aviv University](https://english.tau.ac.il/), He is interested in how the brain controls movement, with a focus on how we can speed up motor learning, how we combine movement primitives to form complex movements, and methods for understanding movement disorders. and co-director of the [Movement Sciences lab](https://www.movementscienceslab.com/)
+Jason Friedman is an Associate Professor in the [Dept. Physical Therapy](https://en-med.tau.ac.il/About-Physio) and the [Sagol School of Neuroscience](https://en-sagol.tau.ac.il/) at [Tel Aviv University](https://english.tau.ac.il/), He is interested in how the brain controls movement, with a focus on how we can speed up motor learning, how we combine movement primitives to form complex movements, and methods for understanding movement disorders. and co-director of the [Movement Sciences lab](https://www.movementscienceslab.com/)
