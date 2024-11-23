@@ -17,7 +17,8 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: A slow limit: Extensive motor training can not overcome a limit on the production of slow and smooth motion
+title: >
+  A slow limit: Extensive motor training can not overcome a limit on the production of slow and smooth motion
 doi: 10.1152/jn.00208.2024
 featured: true
 tags: []
