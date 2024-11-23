@@ -20,8 +20,7 @@ abstract: A typical part of learning to play the piano is the progression
   simulated human learners.
 slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-publication_types:
-  - "3"
+publication_types: ["article"]
 authors:
   - Alexandra Moringen
   - Sören Rüttgers

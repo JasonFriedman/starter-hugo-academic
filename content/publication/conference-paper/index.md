@@ -17,8 +17,7 @@ abstract: "There is a growing trend to teach playing an instrument such as a
   with detailed feedback on their performance."
 slides: ""
 url_pdf: ""
-publication_types:
-  - "1"
+publication_types: ['paper-conference']
 authors:
   - Hila Tamir-Ostrover
   - Gilad Baruch

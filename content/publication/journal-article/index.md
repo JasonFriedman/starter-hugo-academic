@@ -23,8 +23,7 @@ abstract: The ability to coordinate finger forces to dexterously perform tasks
   amount of time that has passed since the injury.
 slides: ""
 url_pdf: https://www.frontiersin.org/articles/10.3389/fnhum.2023.1083304
-publication_types:
-  - "2"
+publication_types: ["article-journal"]
 authors:
   - Aviva Mimouni-Bloch
   - Sharon Shaklai
