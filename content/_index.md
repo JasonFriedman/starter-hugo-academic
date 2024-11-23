@@ -127,7 +127,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: jason@tauex.tau.ac.il
       address:
-        street: Health Professions Building, Room 317
+        street: Health Professions Building, Room 317d
         city: Tel Aviv University
         postcode: '6997801'
         country: Israel
