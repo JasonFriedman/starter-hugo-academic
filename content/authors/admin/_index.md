@@ -19,10 +19,10 @@ profiles:
       header: true
   - icon: academicons/google-scholar
     link: https://scholar.google.co.il/citations?user=QIVliHQAAAAJ
-  - icon: github
+  - icon: brands/github
     icon_pack: fab
     link: https://github.com/JasonFriedman
-  - icon: linkedin
+  - icon: brands/linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/drjasonfriedman/
 organizations:
