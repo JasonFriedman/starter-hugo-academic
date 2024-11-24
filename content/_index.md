@@ -123,6 +123,7 @@ sections:
     id: contact
     content:
       title: Contact
+      filters: 
 #      subtitle:
       text: |-
         Questions? Send me an email: jason@tauex.tau.ac.il
