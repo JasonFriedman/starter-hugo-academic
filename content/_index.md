@@ -118,15 +118,17 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
+
 #  - block: contact
-  - block: collection
-    id: contact
-    content:
-      title: Contact
-      text: |-
-        Questions? Send me an email: jason@tauex.tau.ac.il
-      filters: 
-        folders:
+#  - block: collection
+#    id: contact
+#    content:
+#      title: Contact
+#      text: |-
+#        Questions? Send me an email: jason@tauex.tau.ac.il
+#      filters: 
+#        folders:
+
 #      subtitle:
 #      autolink: true
       # Contact (add or remove contact options as necessary)
