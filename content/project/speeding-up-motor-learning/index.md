@@ -1,7 +1,9 @@
 ---
 title: Speeding up motor learning
 date: 2023-08-23T06:36:19.261Z
-summary: I have performed several studies looking at how we can enhance motor
+summary: 
+  <!--more-->
+  I have performed several studies looking at how we can enhance motor
   learning, in typically developing populations, and in populations with motor
   disorders. I have examined questions of what sort of feedback is optimal to
   use, the effect of posture and how timing affects the process of motor
