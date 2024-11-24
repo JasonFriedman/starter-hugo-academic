@@ -1,5 +1,4 @@
 ---
-# Leave the homepage title empty to use the site title
 title: Jason Friedman
 date: 2024-11-24
 type: landing
@@ -120,15 +119,14 @@ sections:
 #      columns: '2'
 
 #  - block: contact
-#  - block: collection
-#    id: contact
-#    content:
-#      title: Contact
-#      text: |-
-#        Questions? Send me an email: jason@tauex.tau.ac.il
+  - block: markdown
+    id: contact
+    content:
+      title: Contact
+      text: |-
+        Questions? Send me an email: jason@tauex.tau.ac.il
 #      filters: 
 #        folders:
-
 #      subtitle:
 #      autolink: true
       # Contact (add or remove contact options as necessary)
