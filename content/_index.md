@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Jason Friedman
-date: 2022-10-24
+date: 2024-11-24
 type: landing
 
 sections:
@@ -125,25 +125,25 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Questions? Send me an email:
+        Questions? Send me an email: jason@tauex.tau.ac.il
       # Contact (add or remove contact options as necessary)
-      email: jason@tauex.tau.ac.il
-      address:
-        street: Health Professions Building, Room 317d
-        city: Tel Aviv University
-        postcode: '6997801'
-        country: Israel
-        country_code: IL
-      # Automatically link email and phone or display as text?
+#      email: jason@tauex.tau.ac.il
+#      address:
+#        street: Health Professions Building, Room 317d
+#        city: Tel Aviv University
+#        postcode: '6997801'
+#        country: Israel
+#        country_code: IL
+#      # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
+#          # Enable CAPTCHA challenge to reduce spam?
+#          captcha: true
     design:
       columns: '2'
 ---
