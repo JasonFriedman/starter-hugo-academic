@@ -1,7 +1,7 @@
 ---
 title: Speeding up motor learning
 date: 2023-08-23T06:36:19.261Z
-summary: >
+summary: |- 
   I have performed a number of studies looking at how we can enhance motor
   learning, in typically developing populations, and in populations with motor
   disorders. I have examined questions of what sort of feedback is optimal to
