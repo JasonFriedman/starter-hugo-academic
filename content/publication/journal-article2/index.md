@@ -27,9 +27,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.png
-date: 2023-08-23T04:48:27.808Z
+date: 2024-11-24T04:48:27.808Z
 url_slides: ""
-publishDate: 2023-01-23T00:00:00Z
+publishDate: 2024-11-24T00:00:00Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---

@@ -1,7 +1,7 @@
 ---
 abstract: |-
   We held a one-day workshop on the topic of Motor Learning and its Relationship with Motor Recovery after Brain Injury.
-  Videos from the event are available in the link below on youtube
+  Videos from the event are available on [youtube](https://www.youtube.com/playlist?list=PLOP2gi5YA0FcmXS69DtzXg2FdWfSGcrL5)
 slides: ""
 url_pdf: ""
 summary: A one-day workshop on the connection between motor learning and motor recovery

@@ -1,6 +1,6 @@
 ---
 abstract: We held a one-day workshop on the topic of slow movements - videos
-  from the event are available in the link below on youtube
+  from the event are available [youtube](https://www.youtube.com/playlist?list=PLNiWLB_wsOg4Oagun-RJ4O1-eECgFR2nN)
 slides: ""
 url_pdf: ""
 summary: A one-day workshop on slow movements, from many different perspectives, from biomechanics to dance
