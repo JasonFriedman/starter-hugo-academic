@@ -123,9 +123,10 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
+#      subtitle:
       text: |-
         Questions? Send me an email: jason@tauex.tau.ac.il
+      autolink: true
       # Contact (add or remove contact options as necessary)
 #      email: jason@tauex.tau.ac.il
 #      address:
@@ -135,7 +136,6 @@ sections:
 #        country: Israel
 #        country_code: IL
 #      # Automatically link email and phone or display as text?
-      autolink: true
       # Email form provider
 #      form:
 #        provider: netlify
@@ -144,6 +144,6 @@ sections:
 #        netlify:
 #          # Enable CAPTCHA challenge to reduce spam?
 #          captcha: true
-    design:
-      columns: '2'
+#    design:
+#      columns: '2'
 ---
