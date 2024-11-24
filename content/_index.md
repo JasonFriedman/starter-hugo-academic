@@ -123,11 +123,12 @@ sections:
     id: contact
     content:
       title: Contact
-      filters: 
-#      subtitle:
       text: |-
         Questions? Send me an email: jason@tauex.tau.ac.il
-      autolink: true
+      filters: 
+        folders:
+#      subtitle:
+#      autolink: true
       # Contact (add or remove contact options as necessary)
 #      email: jason@tauex.tau.ac.il
 #      address:
